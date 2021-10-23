@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Folium Map</title>
+    <link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet'>
+
+
+    <style>
+    body, html {width: 100%; height: 100%; margin: 0; padding: 0}
+    .row-container {display: flex; width: 100%; height: 100%; flex-direction: column;
+        background-color: blue; overflow: hidden;}
+    .first-row {background-color: lime; }
+    .second-row { flex-grow: 1; border: 1px solid midnightblue; margin: 0; padding: 0; }
+    h1 {font-family: 'Raleway'}
+    h2 {font-family: 'Raleway'}
+    h3 {font-family: 'Raleway'}
+    p {font-family: 'Raleway'; font-size: 20px}
+    li {font-family: 'Raleway'}
+    hr {border: 1px dashed darkcyan; width:1300px; margin: 0; margin-bottom: 5px}
+    .iframe-div {padding-left: 2%; width: 1280px}
+    </style>
+</head>
+<body>
+    <div style="margin-left: 3%; margin-bottom: 10%; margin-top: 2%; padding-bottom: 2%">
+        <h1>London Air Quality Visualised! 🌏</h1>
+        <p>
+            These maps show the change in air quality on a weekly basis in London. <br>
+            Air quality is measured by
+        </p>
+        <ul>
+            <li>Oxides of Nitrogen (ug/m3),</li>
+            <li>PM2.5 Particulate (ug/m3),</li>
+            <li> and PM10 Particulate (ug/m3)</li>
+        </ul>
+        <p>
+            Data spans a 5 year period from 08-apr-2016 to 08-apr-2021.<br>
+            Data was obtained from
+            <a href="https://www.londonair.org.uk/LondonAir/Default.aspx">the London Air Quality Network API</a>. <br>
+            Lighter colours (yellow, orange) on the map indicate high levels of pollution. Darker colours (blue, purple)
+            indicate lower levels.
+        </p><br>
+        <img src="{{url_for('static', filename='pollution_gradient.png')}}"
+             alt="gradient used in the heatmap" width="900px">
+        <h1 style="text-decoration: underline darkorange">Click on the maps! They're interactive!</h1>
+
+        <h2>NO2 interactive map</h2>
+        <hr >
+        <div class="iframe-div">
+            <iframe class="map second-row", src="/NO2_map" width="1280" height="720" ></iframe>
+        </div>
+        <h2>PM25 interactive map</h2>
+        <hr >
+        <div class="iframe-div">
+            <iframe class="map second-row", src="/PM25_map" width="1280" height="720"></iframe>
+        </div>
+        <h2>PM10 interactive map</h2>
+        <hr >
+        <div class="iframe-div">
+            <iframe class="map second-row", src="/PM10_map" width="1280" height="720"></iframe>
+        </div>
+        <h3>For questions, email <a href="mailto:vip.derks@gmail.com">Victoria Derks</a>.</h3>
+    </div>
+</body>
+</html>

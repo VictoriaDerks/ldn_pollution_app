@@ -1,0 +1,189 @@
+SiteCode,SiteName,SiteType,Latitude,Longitude
+A30,Kingston - Kingston Bypass A3,Roadside,51.37355335,-0.291969828
+BG1,Barking and Dagenham - Rush Green,Suburban,51.563752,0.177891
+BG2,Barking and Dagenham - Scrattons Farm,Suburban,51.529389,0.132857
+BG3,Barking and Dagenham - North Street,Kerbside,51.540444,0.074418
+BL0,Camden - Bloomsbury,Urban Background,51.522287,-0.125848
+BN1,Barnet - Tally Ho Corner,Kerbside,51.614675,-0.176607
+BN2,Barnet - Finchley,Urban Background,51.591901,-0.205992
+BN3,Barnet - Strawberry Vale ,Urban Background,51.60088485,-0.172297542
+BP0,Westminster - Bridge Place,Urban Background,51.49385057,-0.143808451
+BQ5,Bexley - Manor Road West Gravimetric,Industrial,51.47819351,0.187404884
+BQ6,Bexley - Manor Road East Gravimetric,Industrial,51.4776708,0.190836226
+BQ7,Bexley - Belvedere West,Urban Background,51.49464868,0.137279111
+BQ8,Bexley - Belvedere West FDMS,Urban Background,51.49464868,0.137279111
+BT1,Brent - Kingsbury,Suburban,51.589618,-0.275519
+BT2,Brent - Ikea Car Park,Roadside,51.55243263,-0.260338844
+BT3,Brent - Harlesden,Roadside,51.53708003,-0.249273425
+BT4,Brent - Ikea,Roadside,51.552476,-0.258089
+BT5,Brent - Neasden Lane,Industrial,51.552656,-0.248774
+BT6,Brent - John Keble Primary School,Roadside,51.537799,-0.247793
+BT7,Brent - St Marys Primary School,Urban Background,51.534718,-0.196664
+BX0,Bexley - Belvedere FDMS,Suburban,51.49061021,0.158914494
+BX1,Bexley - Slade Green,Suburban,51.46598327,0.184877127
+BX2,Bexley - Belvedere,Suburban,51.49061021,0.158914494
+BX3,Bexley - Thamesmead,Suburban,51.510808,0.121617
+BX4,Bexley - Erith,Industrial,51.4776708,0.190836226
+BX5,Bexley - Bedonwell ,Suburban,51.47880235,0.133873839
+BX6,Bexley - Thames Road North FDMS,Roadside,51.457159,0.195294
+BX7,Bexley - Thames Road North,Roadside,51.457159,0.195294
+BX8,Bexley - Thames Road South,Roadside,51.456887,0.194582
+BY1,Bromley - Rent Office,Urban Background,51.41323389,0.007214716
+BY4,Bromley - Tweedy Rd,Roadside,51.40383481,0.020390229
+BY5,Bromley - Biggin Hill,Suburban,51.314562,0.042019
+BY7,Bromley - Harwood Avenue,Roadside,51.405546,0.018882
+CD1,Camden - Swiss Cottage,Kerbside,51.544219,-0.175284
+CD3,Camden - Shaftesbury Avenue,Roadside,51.515532,-0.127027
+CD4,Camden - St Martins College (NOX 1),Urban Background,51.518846,-0.12034
+CD5,Camden - St Martins College (NOX 2),Urban Background,51.518846,-0.12034
+CD9,Camden - Euston Road,Roadside,51.52770662,-0.129053205
+CR2,Croydon - Purley Way,Roadside,51.362638,-0.117952
+CR3,Croydon - Thornton Heath,Suburban,51.40401,-0.098814
+CR4,Croydon - George Street,Roadside,51.374312,-0.096503
+CR5,Croydon - Norbury,Kerbside,51.411349,-0.12311
+CR6,Croydon - Euston Road,Suburban,51.3786979,-0.113796403
+CR7,Croydon - Purley Way A23,Roadside,51.36223057,-0.117604507
+CR9,Croydon - Park lane,Roadside,51.37395306,-0.096763847
+CT1,City of London - Senator House,Urban Background,51.511491,-0.095807
+CT2,City of London - Farringdon Street,Kerbside,51.51452534,-0.104515626
+CT3,City of London - Sir John Cass School,Urban Background,51.51384718,-0.077765682
+CT4,City of London - Beech Street,Roadside,51.52022527,-0.096106047
+CT6,City of London - Walbrook Wharf,Roadside,51.510499,-0.091634
+CT8,City of London - Upper Thames Street,Roadside,51.50954369,-0.087357198
+CY1,Crystal Palace - Crystal Palace Parade,Roadside,51.424812,-0.075449
+EA0,Ealing - Acton Town Hall FDMS,Roadside,51.506628,-0.267934
+EA1,Ealing - Ealing Town Hall,Urban Background,51.51332305,-0.307529015
+EA2,Ealing - Acton Town Hall,Roadside,51.506628,-0.267934
+EA6,Ealing - Hanger Lane Gyratory,Roadside,51.53085,-0.292488
+EA7,Ealing - Southall,Urban Background,51.508549,-0.392179
+EA8,Ealing - Horn Lane,Industrial,51.518948,-0.265617
+EI1,Ealing - Western Avenue,Roadside,51.52360782,-0.265502632
+EI2,Ealing - Southall Railway,Roadside,51.50586998,-0.380241032
+EI8,Ealing - Horn Lane TEOM,Industrial,51.51891603,-0.265652052
+EN1,Enfield - Bush Hill Park,Suburban,51.64503673,-0.066180066
+EN2,Enfield - Church Street,Roadside,51.6524365,-0.084224624
+EN3,Enfield - Salisbury School,Urban Background,51.63747949,-0.044246141
+EN4,Enfield - Derby Road,Roadside,51.61486401,-0.050765836
+EN5,Enfield - Bowes Primary School,Roadside,51.613865,-0.125338
+EN7,Enfield - Prince of Wales School,Urban Background,51.66864335,-0.022007206
+GB0,Greenwich and Bexley - Falconwood FDMS,Roadside,51.4563,0.085606
+GB6,Greenwich and Bexley - Falconwood,Roadside,51.4563,0.085606
+GN0,Greenwich - A206 Burrage Grove,Roadside,51.490532,0.074003
+GN2,Greenwich - Millennium Village,Industrial,51.492571,0.017697
+GN3,Greenwich - Plumstead High Street,Roadside,51.486957,0.095111
+GN4,Greenwich - Fiveways Sidcup Rd A20,Roadside,51.43466271,0.064222467
+GR4,Greenwich - Eltham,Suburban,51.45258,0.070766
+GR5,Greenwich - Trafalgar Road,Roadside,51.483479,-0.000109
+GR7,Greenwich - Blackheath,Roadside,51.472504,-0.012381
+GR8,Greenwich - Woolwich Flyover,Roadside,51.486884,0.017901
+GR9,Greenwich - Westhorne Avenue,Roadside,51.456357,0.040725
+HF1,Hammersmith and Fulham - Broadway,Roadside,51.49276634,-0.223601338
+HF2,Hammersmith and Fulham - Brook Green,Urban Background,51.49649618,-0.220502981
+HF4,Hammersmith and Fulham - Shepherds Bush,Roadside,51.50456257,-0.224670007
+HG1,Haringey - Haringey Town Hall,Roadside,51.599302,-0.068218
+HG2,Haringey - Priory Park,Urban Background,51.586029,-0.126486
+HG3,Haringey - Bounds Green,Roadside,51.60594995,-0.12344112
+HG4,Haringey  - Priory Park South,Urban Background,51.5839769,-0.125400278
+HI0,Hillingdon - Keats Way,Suburban,51.496309,-0.460826
+HI1,Hillingdon - South Ruislip,Roadside,51.552264,-0.402779
+HI2,Hillingdon - Hillingdon Hospital,Roadside,51.526115,-0.459128
+HI3,Hillingdon - Oxford Avenue,Roadside,51.48113184,-0.423760324
+HK4,Hackney - Clapton,Urban Background,51.558884,-0.056388
+HK6,Hackney - Old Street,Roadside,51.526454,-0.08491
+HR1,Harrow - Stanmore,Urban Background,51.617327,-0.298775
+HR2,Harrow - Pinner Road,Roadside,51.588417,-0.362989
+HS1,Hounslow - Brentford,Roadside,51.489321,-0.310002
+HS2,Hounslow - Cranford,Suburban,51.482982,-0.411895
+HS3,Hounslow - Brentford,Roadside,51.489321,-0.310002
+HS4,Hounslow - Chiswick High Road,Roadside,51.492507,-0.257252
+HS5,Hounslow - Brentford,Roadside,51.489398,-0.310081
+HS6,Hounslow - Heston Road,Roadside,51.479129,-0.36476
+HS7,Hounslow - Hatton Cross,Urban Background,51.463402,-0.427525
+HS8,Hounslow and Ealing - Gunnersbury Avenue,Roadside,51.5006763,-0.284383168
+HV1,Havering - Rainham,Roadside,51.52078746,0.205460706
+HV3,Havering - Romford,Roadside,51.572976,0.179079
+IM1,Camden - Holborn (inmidtown),Kerbside,51.51736751,-0.120194711
+IS1,Islington - Upper Street,Urban Background,51.54070034,-0.103269578
+IS2,Islington - Holloway Road,Roadside,51.555378,-0.116146
+IS4,Islington - Foxham Gardens,Urban Background,51.56004034,-0.131679425
+IS5,Islington - Duncan Terrace,Roadside,51.53226589,-0.104413187
+IS6,Islington - Arsenal,Urban Background,51.557895,-0.106989
+KC1,Kensington and Chelsea - North Ken,Urban Background,51.52104675,-0.21349214
+KC2,Kensington and Chelsea - Cromwell Road,Roadside,51.49550391,-0.178809464
+KC3,Kensington and Chelsea - Knightsbridge,Roadside,51.49913951,-0.164337605
+KC4,Kensington and Chelsea - Kings Road,Roadside,51.48743685,-0.168397129
+KC5,Kensington and Chelsea - Earls Court Rd,Kerbside,51.49019756,-0.190863311
+KC7,Kensington and Chelsea - North Ken FDMS,Urban Background,51.52106551,-0.21344617
+KT1,Kingston - Chessington,Suburban,51.35664669,-0.316770842
+KT2,Kingston - Town Centre,Roadside,51.41443076,-0.301706822
+KT3,Kingston Upon Thames - Sopwith Way,Roadside,51.413691,-0.302269
+KT4,Kingston Upon Thames - Tolworth Broadway,Roadside,51.379312,-0.281259
+LB1,Lambeth - Christchurch Road,Roadside,51.444249,-0.121731
+LB2,Lambeth - Vauxhall Cross,Roadside,51.48491231,-0.125173737
+LB3,Lambeth - Loughborough Junct,Urban Background,51.464866,-0.099161
+LB4,Lambeth - Brixton Road,Kerbside,51.46411354,-0.114581027
+LB5,Lambeth - Bondway Interchange,Industrial,51.48548677,-0.124545235
+LB6,Lambeth - Streatham Green,Urban Background,51.42821314,-0.131868639
+LH0,Hillingdon - Harlington,Urban Background,51.48878,-0.441627
+LH2,Heathrow Airport,Industrial,51.47923389,-0.440530703
+LW1,Lewisham - Catford,Urban Background,51.445468,-0.020266
+LW2,Lewisham - New Cross,Roadside,51.474954,-0.039641
+LW3,Lewisham - Mercury Way,Industrial,51.48114122,-0.045670857
+LW4,Lewisham - Loampit Vale,Roadside,51.46469106,-0.016068243
+ME1,Merton - Morden Civic Centre,Roadside,51.40105,-0.195929
+ME2,Merton - Merton Road,Roadside,51.41613848,-0.192230805
+ME7,Merton - Willow Lane Industrial Estate,Industrial,51.39434156,-0.165161045
+MY1,Westminster - Marylebone Road,Kerbside,51.52254,-0.15459
+MY7,Westminster - Marylebone Road FDMS,Kerbside,51.52254,-0.15459
+NB1,Westminster - Strand (Northbank BID),Roadside,51.511998,-0.116715
+NM1,Newham - Tant Avenue,Urban Background,51.514764,0.011989
+NM2,Newham - Cam Road,Roadside,51.537598,-0.002138
+NM3,Newham - Wren Close,Urban Background,51.514727,0.014554
+RB1,Redbridge - Perth Terrace,Urban Background,51.569221,0.081821
+RB2,Redbridge - Ilford Broadway,Kerbside,51.55834619,0.06999151
+RB3,Redbridge - Fullwell Cross,Kerbside,51.593935,0.085516
+RB4,Redbridge - Gardner Close,Roadside,51.57661,0.030858
+RB5,Redbridge - South Woodford,Roadside,51.595851,0.020087
+RB7,Redbridge - Ley Street,Urban Background,51.56948433,0.082907475
+RHE,Richmond Upon Thames - Hanworth Road,Kerbside,51.446763,-0.383441394
+RI1,Richmond Upon Thames - Castlenau,Roadside,51.480189,-0.237335
+RI2,Richmond Upon Thames - Barnes Wetlands,Suburban,51.476168,-0.230427
+SK1,Southwark - Larcom Street,Urban Background,51.490548,-0.09661
+SK2,Southwark - Old Kent Road,Roadside,51.48194568,-0.062717624
+SK5,Southwark - A2 Old Kent Road,Roadside,51.48049949,-0.059552893
+SK6,Southwark - Elephant and Castle,Urban Background,51.4931557,-0.101527038
+ST1,Sutton - Robin Hood School,Roadside,51.365744,-0.195563
+ST2,Sutton - North Cheam,Urban Background,51.37718921,-0.222044077
+ST3,Sutton - Carshalton,Suburban,51.365318,-0.165936
+ST4,Sutton - Wallington,Kerbside,51.35865961,-0.149723947
+ST5,Sutton - Beddington Lane north,Industrial,51.3892869,-0.141661525
+ST6,Sutton - Worcester Park,Kerbside,51.377923,-0.240414
+ST7,Sutton - Therapia Lane,Industrial,51.38583913,-0.136339857
+ST8,Sutton - Beddington Lane,Industrial,51.38356523,-0.136417861
+TD0,Richmond Upon Thames - Ntl Physical  Lab,Suburban,51.42430434,-0.345714576
+TH1,Tower Hamlets - Poplar,Urban Background,51.510012,-0.019866
+TH2,Tower Hamlets - Mile End Road,Roadside,51.52252949,-0.042155099
+TH3,Tower Hamlets - Bethnal Green,Urban Background,51.526737,-0.053869
+TH4,Tower Hamlets - Blackwall,Roadside,51.51504617,-0.008418493
+TH5,Tower Hamlets - Victoria Park,Urban Background,51.54051949,-0.033307389
+TH6,Tower Hamlets - Millwall Park,Urban Background,51.48913426,-0.012976931
+VS1,Westminster - Victoria Street,Kerbside,51.49924501,-0.131285174
+WA1,Wandsworth - Garratt Lane,Roadside,51.45487221,-0.193004
+WA2,Wandsworth - Wandsworth Town Hall,Urban Background,51.456962,-0.191074
+WA3,Wandsworth - Roehampton,Rural,51.45692047,-0.24556249
+WA4,Wandsworth - High Street,Roadside,51.4564354,-0.191157408
+WA7,Wandsworth - Putney High Street,Kerbside,51.463429,-0.215871
+WA8,Wandsworth - Putney High Street Facade,Roadside,51.4637206,-0.215890144
+WA9,Wandsworth - Putney,Urban Background,51.46503251,-0.215824581
+WAA,Wandsworth - Battersea,Roadside,51.47943953,-0.141786954
+WAB,Wandsworth - Tooting High Street,Roadside,51.429331,-0.166524
+WE0,Kensington and Chelsea - Pembroke Road,Urban Background,51.49428475,-0.199340351
+WL1,Waltham Forest - Dawlish Road,Urban Background,51.562422,-0.004891
+WL3,Waltham Forest - Chingford,Roadside,51.62519286,-0.022597325
+WL4,Waltham Forest - Crooked Billet,Kerbside,51.6017185,-0.016498263
+WL5,Waltham Forest - Leyton,Roadside,51.55625768,-0.013629679
+WM0,Westminster - Horseferry Road,Urban Background,51.494681,-0.131938
+WM4,Westminster - Charing Cross Library,Roadside,51.510205,-0.128177
+WM5,Westminster - Covent Garden,Urban Background,51.51197698,-0.121627203
+WM6,Westminster - Oxford Street,Kerbside,51.51392874,-0.152792702
+WM8,Westminster - Victoria,Urban Background,51.49706618,-0.142438821
