@@ -1,5 +1,5 @@
 # ldn_pollution_app
-London pollution interface for deployment on Heroku
+Creating interactive maps for visualing air pollution in London over time
 
 ## What is this?
 This code creates the London pollution visualisations over time that can be found at https://ldn-airpollution-app.herokuapp.com/.
